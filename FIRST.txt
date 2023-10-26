@@ -1,1 +1,3 @@
 Node Js Basic To Advance
+
+_ is a special variable store the previous expression;
